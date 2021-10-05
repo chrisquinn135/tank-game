@@ -1,2 +1,4 @@
 # tank-game
-SFSU CSC413 Project 
+Created for SFSU CSC413 Term Project 
+
+In order to use the game, download the 
