@@ -1,27 +1,5 @@
-# csc413-tankgame
-
-
-| Student Information |                |
-|:-------------------:|----------------|
-|  Student Name       |   Christopher Su    |
-|  Student Email      |  csu2@mail.sfsu.edu   |
-
-## src Folder Purpose 
-src folder is to be used to store source code only.
-
-## resources Folder Purpose 
-resources folder is to be used to store the resources for your project only. This includes images, sounds, map text files, etc.
-
-`The src and resources folders can be deleted if you want a different file structure`
-
-## jar Folder Purpose 
-The jar folder is to be used to store the built jar of your term-project.
-
-`NO SOURCE CODE SHOULD BE IN THIS FOLDER. DOING SO WILL CAUSE POINTS TO BE DEDUCTED`
-
-`THIS FOLDER CAN NOT BE DELETED OR MOVED`
-
-# Required Information when Submitting Tank Game
+# Two Player Tank Game
+Used Java, JFrame, and minimal starter code to design and develop a tank game that allows for multiplayer gameplay. This was done while implementing object-oriented programming principles with the encapsulation of data to allow for future scalability and features to be added.
 
 ## Version of Java Used: Java Version 14.0.2
 
@@ -55,4 +33,5 @@ The jar folder is to be used to store the built jar of your term-project.
 |  Rotate Right |     D    | right key  |
 |  Shoot        |    " "   | return key |
 
-<!-- you may add more controls if you need to. -->
+## Tutorial
+A tutorial is located under the video tutorial folder titled tutorial.mkv
